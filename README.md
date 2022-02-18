@@ -31,13 +31,9 @@
 <br><br>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=m-dzn">
-</div>
-
-<br><br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-dzn">
+  
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=m-dzn&layout=compact&theme=buefy&hide_border=true)
+  
 </div>
 
 <!--
