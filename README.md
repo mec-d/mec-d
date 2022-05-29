@@ -27,6 +27,7 @@
     <img src="https://img.shields.io/badge/Redux-333?style=flat-square&logo=Redux&logoColor=white&labelColor=764ABC">&nbsp;
     <img src="https://img.shields.io/badge/React Query-333?style=flat-square&logo=ReactQuery&logoColor=white&labelColor=FF4154">&nbsp;
     <img src="https://img.shields.io/badge/Webpack-333?style=flat-square&logo=Webpack&logoColor=8DD6F9&labelColor=2C373E">&nbsp;
+    <img src="https://img.shields.io/badge/CSS In JS-333?style=flat-square&logo=StyledComponents&logoColor=white&labelColor=DB7093">&nbsp;
   </div>
   <div>
     <h4>DB / DevOps</h4>
@@ -40,11 +41,6 @@
     <h4>Test</h4>
     <img src="https://img.shields.io/badge/Jest-333?style=flat-square&logo=Jest&logoColor=white&labelColor=C21325">&nbsp;
     <img src="https://img.shields.io/badge/JUnit5-333?style=flat-square&logo=JUnit5&logoColor=25A162&labelColor=white">&nbsp;
-  </div>
-  <div>
-    <h4>Styling</h4>
-    <img src="https://img.shields.io/badge/Styled Components-333?style=flat-square&logo=StyledComponents&logoColor=white&labelColor=DB7093">&nbsp;
-    <img src="https://img.shields.io/badge/Sass-333?style=flat-square&logo=Sass&logoColor=white&labelColor=CC6699">&nbsp;
   </div>
   <div>
     <h4>Etc.</h4>
