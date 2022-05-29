@@ -25,18 +25,8 @@
     <h4>Front End</h4>
     <img src="https://img.shields.io/badge/React-333?style=flat-square&logo=React&logoColor=black&labelColor=61DAFB">&nbsp;
     <img src="https://img.shields.io/badge/Redux-333?style=flat-square&logo=Redux&logoColor=white&labelColor=764ABC">&nbsp;
-    <img src="https://img.shields.io/badge/Recoil-333?style=flat-square&logo=React&logoColor=black&labelColor=white">&nbsp;
-    <img src="https://img.shields.io/badge/Webpack-333?style=flat-square&logo=Webpack&logoColor=8DD6F9&labelColor=2C373E">&nbsp;
-  </div>
-  <div>
     <img src="https://img.shields.io/badge/React Query-333?style=flat-square&logo=ReactQuery&logoColor=white&labelColor=FF4154">&nbsp;
-    <img src="https://img.shields.io/badge/Styled Components-333?style=flat-square&logo=StyledComponents&logoColor=white&labelColor=DB7093">&nbsp;
-    <img src="https://img.shields.io/badge/Sass-333?style=flat-square&logo=Sass&logoColor=white&labelColor=CC6699">&nbsp;
-  </div>
-  <div>
-    <h4>Test</h4>
-    <img src="https://img.shields.io/badge/Jest-333?style=flat-square&logo=Jest&logoColor=white&labelColor=C21325">&nbsp;
-    <img src="https://img.shields.io/badge/JUnit5-333?style=flat-square&logo=JUnit5&logoColor=25A162&labelColor=white">&nbsp;
+    <img src="https://img.shields.io/badge/Webpack-333?style=flat-square&logo=Webpack&logoColor=8DD6F9&labelColor=2C373E">&nbsp;
   </div>
   <div>
     <h4>DB / DevOps</h4>
@@ -45,6 +35,16 @@
     <img src="https://img.shields.io/badge/AWS-333?style=flat-square&logo=amazonaws&logoColor=white&labelColor=232F3E">&nbsp;
     <img src="https://img.shields.io/badge/Ubuntu-333?style=flat-square&logo=Ubuntu&logoColor=white&labelColor=E95420">&nbsp;
     <img src="https://img.shields.io/badge/Git-333?style=flat-square&logo=git&logoColor=E84D31&labelColor=white">&nbsp;
+  </div>
+  <div>
+    <h4>Test</h4>
+    <img src="https://img.shields.io/badge/Jest-333?style=flat-square&logo=Jest&logoColor=white&labelColor=C21325">&nbsp;
+    <img src="https://img.shields.io/badge/JUnit5-333?style=flat-square&logo=JUnit5&logoColor=25A162&labelColor=white">&nbsp;
+  </div>
+  <div>
+    <h4>Styling</h4>
+    <img src="https://img.shields.io/badge/Styled Components-333?style=flat-square&logo=StyledComponents&logoColor=white&labelColor=DB7093">&nbsp;
+    <img src="https://img.shields.io/badge/Sass-333?style=flat-square&logo=Sass&logoColor=white&labelColor=CC6699">&nbsp;
   </div>
   <div>
     <h4>Etc.</h4>
