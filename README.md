@@ -14,16 +14,12 @@
     <h5>Back End</h5>
     <img src="https://img.shields.io/badge/Node.js-333?style=flat-square&logo=node.js&logoColor=white&labelColor=339933">&nbsp;
     <img src="https://img.shields.io/badge/Nest_JS-333?style=flat-square&logo=nestjs&logoColor=white&labelColor=E0234E">&nbsp;
-    <img src="https://img.shields.io/badge/TypeORM-333?style=flat-square&logo=nestjs&logoColor=thie&labelColor=E34F26">&nbsp;
     <img src="https://img.shields.io/badge/Passport-333?style=flat-square&logo=Passport&logoColor=34E27A&labelColor=white">&nbsp;
-    <img src="https://img.shields.io/badge/Jest-333?style=flat-square&logo=Jest&logoColor=white&labelColor=C21325">&nbsp;
   </div>
   <div>
-    <img src="https://img.shields.io/badge/Spring-333?style=flat-square&logo=Spring&logoColor=white&labelColor=6DB33F">&nbsp;
     <img src="https://img.shields.io/badge/Spring Boot-333?style=flat-square&logo=SpringBoot&logoColor=white&labelColor=6DB33F">&nbsp;
     <img src="https://img.shields.io/badge/Hibernate-333?style=flat-square&logo=Hibernate&logoColor=white&labelColor=59666C">&nbsp;
     <img src="https://img.shields.io/badge/Spring Security-333?style=flat-square&logo=SpringSecurity&logoColor=white&labelColor=6DB33F">&nbsp;
-    <img src="https://img.shields.io/badge/JUnit5-333?style=flat-square&logo=JUnit5&logoColor=25A162&labelColor=white">&nbsp;
   </div>
   <div>
     <h5>Front End</h5>
@@ -38,11 +34,16 @@
     <img src="https://img.shields.io/badge/Sass-333?style=flat-square&logo=Sass&logoColor=white&labelColor=CC6699">&nbsp;
   </div>
   <div>
+    <h5>Test</h5>
+    <img src="https://img.shields.io/badge/Jest-333?style=flat-square&logo=Jest&logoColor=white&labelColor=C21325">&nbsp;
+    <img src="https://img.shields.io/badge/JUnit5-333?style=flat-square&logo=JUnit5&logoColor=25A162&labelColor=white">&nbsp;
+  </div>
+  <div>
     <h5>DB / DevOps</h5>
     <img src="https://img.shields.io/badge/MySQL-333?style=flat-square&logo=MySQL&logoColor=white&labelColor=4479A1">&nbsp;
     <img src="https://img.shields.io/badge/Docker-333?style=flat-square&logo=Docker&logoColor=white&labelColor=2496ED">&nbsp;
-    <img src="https://img.shields.io/badge/Ubuntu-333?style=flat-square&logo=Ubuntu&logoColor=white&labelColor=E95420">&nbsp;
     <img src="https://img.shields.io/badge/AWS-333?style=flat-square&logo=amazonaws&logoColor=white&labelColor=232F3E">&nbsp;
+    <img src="https://img.shields.io/badge/Ubuntu-333?style=flat-square&logo=Ubuntu&logoColor=white&labelColor=E95420">&nbsp;
     <img src="https://img.shields.io/badge/Git-333?style=flat-square&logo=git&logoColor=E84D31&labelColor=white">&nbsp;
   </div>
   <div>
