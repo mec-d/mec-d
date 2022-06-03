@@ -48,9 +48,9 @@
   </div>
   <div>
     <h4>Etc.</h4>
-    <img src="https://img.shields.io/badge/Swagger-333?style=flat-square&logo=Swagger&logoColor=85EA2D&labelColor=222">&nbsp;
+    <img src="https://img.shields.io/badge/Swagger-333?style=flat-square&logo=Swagger&logoColor=85EA2D&labelColor=282828">&nbsp;
     <img src="https://img.shields.io/badge/Notion-333?style=flat-square&logo=Notion&logoColor=black&labelColor=white">&nbsp;
-    <img src="https://img.shields.io/badge/Figma-333?style=flat-square&logo=Figma&logoColor=FF7262&labelColor=1E1E1E">&nbsp;
+    <img src="https://img.shields.io/badge/Figma-333?style=flat-square&logo=Figma&logoColor=FF7262&labelColor=282828">&nbsp;
   </div>
 </div>
 
