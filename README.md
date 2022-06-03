@@ -7,7 +7,7 @@
   <div>
     <h4>Language</h4>
     <img src="https://img.shields.io/badge/JavaScript-333?style=flat-square&logo=JavaScript&logoColor=F7DF1E&labelColor=323330">&nbsp;
-    <img src="https://img.shields.io/badge/TypeScript-333?style=flat-square&logo=typescript&logoColor=white&labelColor=007ACC">&nbsp;
+    <img src="https://img.shields.io/badge/TypeScript-333?style=flat-square&logo=typescript&logoColor=007ACC&labelColor=white">&nbsp;
     <img src="https://img.shields.io/badge/Java-333?style=flat-square&logo=java&logoColor=white&labelColor=ED8B00">&nbsp;
   </div>
   <div>
@@ -17,9 +17,9 @@
     <img src="https://img.shields.io/badge/Passport-333?style=flat-square&logo=Passport&logoColor=34E27A&labelColor=white">&nbsp;
   </div>
   <div>
-    <img src="https://img.shields.io/badge/Spring Boot-333?style=flat-square&logo=SpringBoot&logoColor=white&labelColor=6DB33F">&nbsp;
+    <img src="https://img.shields.io/badge/Spring Boot-333?style=flat-square&logo=SpringBoot&logoColor=6DB33F&labelColor=white">&nbsp;
     <img src="https://img.shields.io/badge/Hibernate-333?style=flat-square&logo=Hibernate&logoColor=white&labelColor=59666C">&nbsp;
-    <img src="https://img.shields.io/badge/Spring Security-333?style=flat-square&logo=SpringSecurity&logoColor=white&labelColor=6DB33F">&nbsp;
+    <img src="https://img.shields.io/badge/Spring Security-333?style=flat-square&logo=SpringSecurity&logoColor=6DB33F&labelColor=white">&nbsp;
   </div>
   <div>
     <h4>Front End</h4>
@@ -48,7 +48,7 @@
   </div>
   <div>
     <h4>Etc.</h4>
-    <img src="https://img.shields.io/badge/Swagger-333?style=flat-square&logo=Swagger&logoColor=85EA2D&labelColor=000">&nbsp;
+    <img src="https://img.shields.io/badge/Swagger-333?style=flat-square&logo=Swagger&logoColor=85EA2D&labelColor=222">&nbsp;
     <img src="https://img.shields.io/badge/Notion-333?style=flat-square&logo=Notion&logoColor=black&labelColor=white">&nbsp;
     <img src="https://img.shields.io/badge/Figma-333?style=flat-square&logo=Figma&logoColor=FF7262&labelColor=1E1E1E">&nbsp;
   </div>
