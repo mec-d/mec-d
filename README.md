@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/JavaScript-333?style=flat-square&logo=JavaScript&logoColor=F7DF1E&labelColor=323330">&nbsp;
     <img src="https://img.shields.io/badge/TypeScript-333?style=flat-square&logo=typescript&logoColor=007ACC&labelColor=white">&nbsp;
     <img src="https://img.shields.io/badge/Java-333?style=flat-square&logo=java&logoColor=white&labelColor=ED8B00">&nbsp;
-    <img src="https://img.shields.io/badge/Kotlin-333?style=flat-square&logo=kotlin&logoColor=white&labelColor=ED8B00">&nbsp;
+    <img src="https://img.shields.io/badge/Kotlin-333?style=flat-square&logo=kotlin&logoColor=white&labelColor=7F52FF">&nbsp;
   </div>
   <div>
     <h4>Back End</h4>
