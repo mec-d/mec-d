@@ -52,6 +52,7 @@
     <img src="https://img.shields.io/badge/Swagger-333?style=flat-square&logo=Swagger&logoColor=85EA2D&labelColor=282828">&nbsp;
     <img src="https://img.shields.io/badge/Notion-333?style=flat-square&logo=Notion&logoColor=black&labelColor=white">&nbsp;
     <img src="https://img.shields.io/badge/Figma-333?style=flat-square&logo=Figma&logoColor=FF7262&labelColor=282828">&nbsp;
+    <img src="https://img.shields.io/badge/Framer-333?style=flat-square&logo=Framer&logoColor=0055FF&labelColor=FFFFFF">&nbsp;
   </div>
 </div>
 
