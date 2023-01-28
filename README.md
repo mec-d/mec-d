@@ -78,3 +78,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<br><br>
+
+<blockquote>
+<h3>🧱 As a Mechanism Designer</h3><br>
+I'll contribute to<br>
+the modernization of our society<br><br>
+with advanced Information Technology</blockquote>
