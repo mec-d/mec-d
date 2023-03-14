@@ -60,7 +60,9 @@
 
 <div align="center">
   
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=m-dzn&layout=compact&theme=buefy&hide_border=true)
+  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=m-dzn&layout=compact&theme=buefy&mdzn)
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  [![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=mdzn)](https://solved.ac/mdzn)
   
 </div>
 
