@@ -26,7 +26,6 @@
     <h4>Front End</h4>
     <img src="https://img.shields.io/badge/React-333?style=flat-square&logo=React&logoColor=black&labelColor=61DAFB">&nbsp;
     <img src="https://img.shields.io/badge/Redux-333?style=flat-square&logo=Redux&logoColor=white&labelColor=764ABC">&nbsp;
-    <img src="https://img.shields.io/badge/Recoil-333?style=flat-square&logo=React&logoColor=black&labelColor=white">&nbsp;
     <img src="https://img.shields.io/badge/Webpack-333?style=flat-square&logo=Webpack&logoColor=8DD6F9&labelColor=2C373E">&nbsp;
     <img src="https://img.shields.io/badge/Next.js-333?style=flat-square&logo=Next.js&logoColor=white&labelColor=000000">&nbsp;
   </div>
