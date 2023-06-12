@@ -35,6 +35,9 @@
     <img src="https://img.shields.io/badge/Sass-333?style=flat-square&logo=Sass&logoColor=white&labelColor=CC6699">&nbsp;
   </div>
   <div>
+    <img src="https://img.shields.io/badge/Android-333?style=flat-square&logo=Android&logoColor=white&labelColor=3DDC84">&nbsp;
+  </div>
+  <div>
     <h4>Test</h4>
     <img src="https://img.shields.io/badge/Jest-333?style=flat-square&logo=Jest&logoColor=white&labelColor=C21325">&nbsp;
     <img src="https://img.shields.io/badge/JUnit5-333?style=flat-square&logo=JUnit5&logoColor=25A162&labelColor=white">&nbsp;
