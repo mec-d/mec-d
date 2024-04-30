@@ -22,7 +22,7 @@
   <div>
     <h4>Front End</h4>
     <img src="https://img.shields.io/badge/Next.js-333?style=flat-square&logo=Next.js&logoColor=white&labelColor=000000">&nbsp;
-    <img src="https://img.shields.io/badge/React-333?style=flat-square&logo=React&logoColor=black&labelColor=61DAFB">&nbsp;
+    <img src="https://img.shields.io/badge/React-333?style=flat-square&logo=React&logoColor=61DAFB&labelColor=black">&nbsp;
     <img src="https://img.shields.io/badge/GraphQL-333?style=flat-square&logo=graphql&logoColor=white&labelColor=E10098">&nbsp;
   </div>
   <div>
