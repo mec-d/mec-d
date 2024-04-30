@@ -10,49 +10,36 @@
     <img src="https://img.shields.io/badge/TypeScript-333?style=flat-square&logo=typescript&logoColor=007ACC&labelColor=white">&nbsp;
     <img src="https://img.shields.io/badge/Java-333?style=flat-square&logo=kotlin&logoColor=ED8B00&labelColor=ED8B00">&nbsp;
     <img src="https://img.shields.io/badge/Kotlin-333?style=flat-square&logo=kotlin&logoColor=white&labelColor=7F52FF">&nbsp;
+    <img src="https://img.shields.io/badge/Python-333?style=flat-square&logo=python&logoColor=white&labelColor=3776AB">&nbsp;
   </div>
   <div>
     <h4>Back End</h4>
+    <img src="https://img.shields.io/badge/Spring Boot-333?style=flat-square&logo=SpringBoot&logoColor=6DB33F&labelColor=white">&nbsp;
     <img src="https://img.shields.io/badge/Node.js-333?style=flat-square&logo=node.js&logoColor=white&labelColor=339933">&nbsp;
     <img src="https://img.shields.io/badge/Nest_JS-333?style=flat-square&logo=nestjs&logoColor=white&labelColor=E0234E">&nbsp;
-    <img src="https://img.shields.io/badge/Passport-333?style=flat-square&logo=Passport&logoColor=34E27A&labelColor=white">&nbsp;
-  </div>
-  <div>
-    <img src="https://img.shields.io/badge/Spring Boot-333?style=flat-square&logo=SpringBoot&logoColor=6DB33F&labelColor=white">&nbsp;
-    <img src="https://img.shields.io/badge/Hibernate-333?style=flat-square&logo=Hibernate&logoColor=white&labelColor=59666C">&nbsp;
-    <img src="https://img.shields.io/badge/Spring Security-333?style=flat-square&logo=SpringSecurity&logoColor=6DB33F&labelColor=white">&nbsp;
+    <img src="https://img.shields.io/badge/Django-333?style=flat-square&logo=django&logoColor=white&labelColor=092E20">&nbsp;
   </div>
   <div>
     <h4>Front End</h4>
     <img src="https://img.shields.io/badge/Next.js-333?style=flat-square&logo=Next.js&logoColor=white&labelColor=000000">&nbsp;
     <img src="https://img.shields.io/badge/React-333?style=flat-square&logo=React&logoColor=black&labelColor=61DAFB">&nbsp;
-    <img src="https://img.shields.io/badge/Redux-333?style=flat-square&logo=Redux&logoColor=white&labelColor=764ABC">&nbsp;
-    <img src="https://img.shields.io/badge/Webpack-333?style=flat-square&logo=Webpack&logoColor=8DD6F9&labelColor=2C373E">&nbsp;
-  </div>
-  <div>
-    <img src="https://img.shields.io/badge/React Query-333?style=flat-square&logo=ReactQuery&logoColor=white&labelColor=FF4154">&nbsp;
-    <img src="https://img.shields.io/badge/Styled Components-333?style=flat-square&logo=StyledComponents&logoColor=white&labelColor=DB7093">&nbsp;
-    <img src="https://img.shields.io/badge/Sass-333?style=flat-square&logo=Sass&logoColor=white&labelColor=CC6699">&nbsp;
-  </div>
-  <div>
-    <img src="https://img.shields.io/badge/Android-333?style=flat-square&logo=Android&logoColor=white&labelColor=3DDC84">&nbsp;
-  </div>
-  <div>
-    <h4>Test</h4>
-    <img src="https://img.shields.io/badge/Jest-333?style=flat-square&logo=Jest&logoColor=white&labelColor=C21325">&nbsp;
-    <img src="https://img.shields.io/badge/JUnit5-333?style=flat-square&logo=JUnit5&logoColor=25A162&labelColor=white">&nbsp;
+    <img src="https://img.shields.io/badge/GraphQL-333?style=flat-square&logo=graphql&logoColor=white&labelColor=E10098">&nbsp;
   </div>
   <div>
     <h4>DB / DevOps</h4>
+    <img src="https://img.shields.io/badge/AWS-333?style=flat-square&logo=amazonaws&logoColor=FF9900&labelColor=232F3E">&nbsp;
     <img src="https://img.shields.io/badge/MySQL-333?style=flat-square&logo=MySQL&logoColor=white&labelColor=4479A1">&nbsp;
     <img src="https://img.shields.io/badge/Docker-333?style=flat-square&logo=Docker&logoColor=white&labelColor=2496ED">&nbsp;
-    <img src="https://img.shields.io/badge/AWS-333?style=flat-square&logo=amazonaws&logoColor=white&labelColor=232F3E">&nbsp;
-    <img src="https://img.shields.io/badge/Ubuntu-333?style=flat-square&logo=Ubuntu&logoColor=white&labelColor=E95420">&nbsp;
     <img src="https://img.shields.io/badge/Git-333?style=flat-square&logo=git&logoColor=E84D31&labelColor=white">&nbsp;
   </div>
   <div>
+    <h4>Design</h4>
+    <img src="https://img.shields.io/badge/Figma-333?style=flat-square&logo=Figma&logoColor=white&labelColor=black">&nbsp;
+    <img src="https://img.shields.io/badge/Photoshop-333?style=flat-square&logo=adobephotoshop&logoColor=31A8FF&labelColor=white">&nbsp;
+    <img src="https://img.shields.io/badge/Illustrator-333?style=flat-square&logo=adobeillustrator&logoColor=FF9A00&labelColor=white">&nbsp;
+  </div>
+  <div>
     <h4>Etc.</h4>
-    <img src="https://img.shields.io/badge/Figma-333?style=flat-square&logo=Figma&logoColor=FF7262&labelColor=282828">&nbsp;
     <img src="https://img.shields.io/badge/Swagger-333?style=flat-square&logo=Swagger&logoColor=85EA2D&labelColor=282828">&nbsp;
     <img src="https://img.shields.io/badge/Notion-333?style=flat-square&logo=Notion&logoColor=black&labelColor=white">&nbsp;
   </div>
