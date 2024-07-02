@@ -27,7 +27,7 @@
   </div>
   <div>
     <h4>DB / DevOps</h4>
-    <img src="https://img.shields.io/badge/AWS-333?style=flat-square&logo=amazonaws&logoColor=FF9900&labelColor=232F3E">&nbsp;
+    <img src="https://img.shields.io/badge/AWS-333?style=flat-square&logo=amazonwebservices&logoColor=FF9900&labelColor=232F3E">&nbsp;
     <img src="https://img.shields.io/badge/MySQL-333?style=flat-square&logo=MySQL&logoColor=white&labelColor=4479A1">&nbsp;
     <img src="https://img.shields.io/badge/Docker-333?style=flat-square&logo=Docker&logoColor=white&labelColor=2496ED">&nbsp;
     <img src="https://img.shields.io/badge/Git-333?style=flat-square&logo=git&logoColor=E84D31&labelColor=white">&nbsp;
