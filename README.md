@@ -88,8 +88,8 @@
   
 </div>
 
-<br><br>
+<br>
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/m-dzn" />
+  <img src="https://render.gitanimals.org/farms/m-dzn" width="300" />
 </a>
